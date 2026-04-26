@@ -13,10 +13,9 @@ Welcome to my Java Projects repository! This space contains a collection of desk
 ## 🛠️ Technologies & Tools
 * **Language:** Java
 * **Libraries:** `javax.swing.*`, `java.awt.*`
-* **IDE:** Eclipse
 
 ## 🚀 How to Run
 1. Clone this repository to your local machine:
    `git clone https://github.com/kerilous1/Java_Projects.git`
-2. Open the project in Eclipse (or your preferred IDE).
+2. Open the project in your preferred IDE.
 3. Run the `Login.java` file.
